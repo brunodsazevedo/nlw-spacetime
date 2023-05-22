@@ -36,10 +36,10 @@
 </p>
 
 <h1 align="center">
-  <img src=".github/images/1.png" height="300px">
-  <img src=".github/images/2.png" height="300px">
-  <img src=".github/images/3.png" height="300px">
-  <img src=".github/images/4.png" height="300px">
+  <img src=".github/images/mobile-screen-1.png" height="300px">
+  <img src=".github/images/mobile-screen-2.png" height="300px">
+  <img src=".github/images/mobile-screen-3.png" height="300px">
+  <img src=".github/images/mobile-screen-4.png" height="300px">
 </h1>
 
 <h1 align="center">
