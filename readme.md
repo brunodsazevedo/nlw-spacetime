@@ -8,58 +8,31 @@
 </h1>
 
 <p align="center">
-  <img
-    alt="License"
-    src="https://img.shields.io/static/v1?label=license&message=MIT&color=#04d361&labelColor=#0A1033"
-  >
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=NLW&message=SpaceTime&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=NLW&message=SpaceTime&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=Rocketseat&message=Ignite&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Ignite&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=ReactNative&message=0.71.8&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=ReactNative&message=0.71.8&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=Expo&message=48.0.15&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=Expo&message=48.0.15&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=Nativewind&message=2.0.11&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=Nativewind&message=2.0.11&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=Expo-Router&message=1.5.3&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=Expo-Router&message=1.5.3&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=Nativewind&message=2.0.11&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=Nativewind&message=2.0.11&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=prisma&message=4.14.0&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=prisma&message=4.14.0&color=#04d361&labelColor=#0A1033">
   
-  <img
-    src="https://img.shields.io/static/v1?label=fastify&message=4.17&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=fastify&message=4.17&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=react&message=18.2.0&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=react&message=18.2.0&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=nextjs&message=13.4.2&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=nextjs&message=13.4.2&color=#04d361&labelColor=#0A1033">
 
-  <img
-    src="https://img.shields.io/static/v1?label=tailwindcss&message=3.3.2&color=#04d361&labelColor=#0A1033"
-  >
+  <img src="https://img.shields.io/static/v1?label=tailwindcss&message=3.3.2&color=#04d361&labelColor=#0A1033">
 </p>
 
 <br><br>
