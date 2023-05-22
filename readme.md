@@ -35,6 +35,17 @@
   <img src="https://img.shields.io/static/v1?label=tailwindcss&message=3.3.2&color=#04d361&labelColor=#0A1033">
 </p>
 
+<h1 align="center">
+  <img src=".github/images/1.png" height="300px">
+  <img src=".github/images/2.png" height="300px">
+  <img src=".github/images/3.png" height="300px">
+  <img src=".github/images/4.png" height="300px">
+</h1>
+
+<h1 align="center">
+  <img src=".github/images/desktop-template.png" width="1200px">
+</h1>
+
 <br><br>
 
 ## 💻 **Projeto**
